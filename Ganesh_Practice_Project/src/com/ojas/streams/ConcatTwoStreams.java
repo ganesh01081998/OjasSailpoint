@@ -12,7 +12,7 @@ public class ConcatTwoStreams {
 		Stream<Object> res = Stream.concat(list.stream(), list1.stream());
 		
 		res.forEach(r -> System.out.println(r));
-		
+		ghj
 	}
 
 }
